@@ -143,15 +143,4 @@ class AttentionVRPCritic(object):
             logits = u  
 
         return e, logits
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+

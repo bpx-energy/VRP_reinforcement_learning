@@ -31,3 +31,6 @@ The default inference is run in batch mode, meaning that all testing instances a
 
 > python main.py --task=vrp10 --is_train=False --infer_type=single --model_dir=./path_to_your_saved_checkpoint
 
+Logs:
+
+All logs will be stored in > results.txt file stored in > ./logs/task_date_time directory.
